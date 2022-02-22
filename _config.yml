@@ -1,4 +1,28 @@
-name: Arcana
-description: Arcana template by HTML5 UP
-paginate: 10
-baseurl: "https://html5up.net/arcana"
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+title: Arcana
+email: info@olympusrealtypm.ca
+phone: 416-856-7405
+copyright: Copyright Owner
+tagline: This is Phantom, a free, fully responsive site<br />template designed by <a href="http://html5up.net">HTML5 UP</a>.
+description: > # this means to ignore newlines until "baseurl: https://html5up.net/arcana"
+  Etiam quis viverra lorem, in semper lorem.
+  Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam.
+  Lorem ipsum dolor sit amet nullam dolore.
+baseurl: "/html5up-arcana" # the subpath of your site, e.g. /blog
+url: "https://lufevida.github.io" # the base hostname & protocol for your site
+twitter: username
+facebook: olympus realty pm
+instagram: olympusrealtypm
+dribbble: username
+github: username
+500px: username
+
+# Build settings
+markdown: kramdown
