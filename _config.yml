@@ -5,6 +5,7 @@ email: info@olympusrealtypm.ca
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 baseurl: "/olympusrealtypm.ca" # the subpath of your site, e.g. /blog
 url: "www.olympusrealtypm.ca" # the base hostname & protocol for your site
+remote_theme: html5up.net/arcana
 author:
 street_address: 1234 Somewhere Road
 city: Ajax
