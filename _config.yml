@@ -1,12 +1,10 @@
 # Site settings
+url: https://olympusrealtypm.github.io
+baseurl: /html5up-arcana
 title: Arcana
 subtitle: by HTML5 UP
-email: info@olympusrealtypm.ca
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
-baseurl: /html5up.net/arcana
-url: https://olympusrealtypm.github.io
-remote_theme: html5up.net/arcana
-author:
+email: info@olympusrealtypm.ca
 street_address: 1234 Somewhere Road
 city: Ajax
 state: Ontario
