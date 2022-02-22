@@ -1,8 +1,9 @@
 # Site settings
+title: OlympusRealtyPM
+subtitle:
 url: https://olympusrealtypm.github.io
-baseurl: /html5up-arcana
-title: Arcana
-subtitle: by HTML5 UP
+baseurl: /olympusrealtypm
+paginate_path: /olympusreaptypm
 description: A FREE AND FULLY RESPONSIVE SITE TEMPLATE
 
 # Contact
